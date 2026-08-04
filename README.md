@@ -189,11 +189,23 @@ REST APIs • SQLAlchemy • Pydantic
 
 
 
-# 🔥 LeetCode
+## 🏆 Problem Solving
 
-Coming Soon 🚀
+<div align="center">
+  <a href=https://leetcode.com/u/sameerjain_084/>
+    <img src=[![GitHub Streak](https://streak-stats.demolab.com?user=sameerjain084&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)/>
+  </a>
+</div>
 
-(Will be updated automatically after solving more problems.)
+<br/>
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-jaidhuria-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jaidhuria/)
+&nbsp;&nbsp;
+
+
+</div>
 
 ---
 
