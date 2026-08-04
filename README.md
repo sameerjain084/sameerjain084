@@ -5,148 +5,222 @@
 </h3>
 
 <p align="center">
-Turning Data into Intelligent Solutions using AI & Python.
+Building Intelligent AI Applications with Python ☁️🤖
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<p align="center">
 
-🎓 B.Tech CSE (Cloud Computing & Automation) @ VIT Bhopal University
+<a href="https://github.com/sameerjain084">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-🤖 Passionate about Artificial Intelligence, Machine Learning and Deep Learning
+<a href="https://www.linkedin.com/in/sameer-jain-7836b7216/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-🐍 Building scalable backend applications using **FastAPI**, **Django** and **Flask**
+<a href="mailto:jainsameer179@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-📊 Love solving real-world problems with Data Science and AI
+<a href="https://leetcode.com/u/sameerjain_084/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
 
-🌱 Currently learning
-
-- Deep Learning
-- Computer Vision
-- NLP
-- MLOps
-- Cloud Deployment
-
-🎯 Goal
-
-Become an AI Engineer capable of building production-ready AI applications.
+</p>
 
 ---
 
-# 🚀 Tech Stack
+# 👨‍💻 About Me
 
-### Programming Languages
+```python
+class SameerJain():
 
-- Python
-- C++
-- SQL
-- JavaScript
+    def __init__(self):
 
-### AI / Machine Learning
+        self.education = "B.Tech CSE (Cloud Computing & Automation)"
 
-- NumPy
-- Pandas
-- Scikit-learn
-- PyTorch
-- TensorFlow
-- OpenCV
-- Matplotlib
+        self.university = "VIT Bhopal University"
 
-### Python Backend
+        self.role = "AI Engineer"
 
-- FastAPI
-- Django
-- Flask
-- REST APIs
-- SQLAlchemy
-- Pydantic
+        self.current_focus = [
+            "Machine Learning",
+            "Deep Learning",
+            "Python Backend",
+            "Computer Vision",
+            "NLP"
+        ]
 
-### Databases
+        self.backend = [
+            "FastAPI",
+            "Django",
+            "Flask",
+            "REST APIs",
+            "SQLAlchemy"
+        ]
 
-- SQLite
-- MySQL
-- MongoDB
+        self.languages = [
+            "Python",
+            "C++",
+            "SQL",
+            "JavaScript"
+        ]
 
-### Cloud & DevOps
+        self.goal = "Build Production Ready AI Systems"
 
-- Git
-- GitHub
-- Docker
-- Linux
-- AWS (Learning)
-
-### Tools
-
-- VS Code
-- Jupyter Notebook
-- Google Colab
-- Postman
+    def motto(self):
+        return "Learn • Build • Deploy • Repeat 🚀"
+```
 
 ---
 
-# 💻 Current Focus
+# ⚙️ Tech Arsenal
 
-✅ Machine Learning Projects
+## 👨‍💻 Programming
 
-✅ Deep Learning
+<p>
 
-✅ Python Backend APIs
+<img src="https://skillicons.dev/icons?i=python,cpp,js,mysql"/>
 
-✅ AI-powered Web Applications
-
-✅ Model Deployment
+</p>
 
 ---
 
-# 📂 Featured Projects
+## 🤖 AI / Machine Learning
 
-🤖 Machine Learning Projects
+<p>
 
-🧠 Deep Learning with PyTorch
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 
-📊 Data Analysis & Visualization
+</p>
 
-⚡ FastAPI Backend Projects
-
-🌐 Django Web Applications
-
-🔬 End-to-End AI Projects
+NumPy • Pandas • Scikit-Learn • Matplotlib • OpenCV • Jupyter Notebook
 
 ---
 
-# 📈 Currently Learning
+## 🌐 Python Backend
 
-- Transformers
-- LangChain
-- LLM Applications
-- MLOps
-- Docker
-- Kubernetes
-- AWS
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask"/>
+
+</p>
+
+REST APIs • SQLAlchemy • Pydantic
+
+---
+
+## 💾 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode"/>
+
+</p>
+
+---
+
+# 🧠 Current Focus
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 🐍 FastAPI Backend Development
+- 📊 Data Science
+- ☁️ Cloud Deployment
+- 🚀 End-to-End AI Projects
+
+---
+
+# 🚀 Currently Building
+
+✔️ Machine Learning Repository
+
+✔️ Deep Learning Projects
+
+✔️ FastAPI APIs
+
+✔️ AI Powered Applications
+
+✔️ Data Science Portfolio
 
 ---
 
 # 🎯 2026 Goals
 
-- ⭐ 500+ LeetCode Problems
-- 🚀 Build 20+ AI Projects
-- 🌐 Deploy AI Applications
-- 🏆 Contribute to Open Source
-- ☁️ Learn AWS & MLOps
-- 💼 Land an AI/ML Internship
+🏆 Build 25+ AI Projects
+
+🧠 Master Deep Learning
+
+🐍 Master FastAPI
+
+☁️ Learn AWS
+
+🐳 Docker + Deployment
+
+📈 Open Source Contributions
+
+💼 AI/ML Internship
 
 ---
 
-## 📫 Connect with Me
+# 💻 GitHub Stats
 
-📧 Email: your-email@example.com
+<p align="center">
 
-💼 LinkedIn:
+<img src="https://github-readme-stats.vercel.app/api?username=sameerjain084&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sameerjain084&theme=tokyonight"/>
+
+</p>
+
+---
+
+
+
+# 🔥 LeetCode
+
+Coming Soon 🚀
+
+(Will be updated automatically after solving more problems.)
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+jainsameer179@gmail.com
+
+💼 **LinkedIn**
+
 https://www.linkedin.com/in/sameer-jain-7836b7216/
 
-💻 GitHub:
+🐙 **GitHub**
+
 https://github.com/sameerjain084
 
-🧩 LeetCode:
+🟠 **LeetCode**
+
 https://leetcode.com/u/sameerjain_084/
+
+---
+
+<p align="center">
+
+### "Turning Data into Intelligent Solutions using AI."
+
+⭐ If you like my work, consider giving my repositories a star.
+
+</p>
