@@ -1,32 +1,36 @@
-<h1 align="center">
-Hi 👋, I'm Sameer Jain
-</h1>
+<h1 align="center">Hi 👋, I'm Sameer Jain</h1>
 
 <h3 align="center">
-🚀 AI & Machine Learning Enthusiast | Deep Learning Explorer | Cloud Computing Student
+🚀 AI Engineer | Machine Learning Enthusiast | Python Backend Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Data+Science;PyTorch+Developer;Python+Programmer;Always+Learning+Something+New+🚀" />
+Turning Data into Intelligent Solutions using AI & Python.
 </p>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
 🎓 B.Tech CSE (Cloud Computing & Automation) @ VIT Bhopal University
 
-🧠 Passionate about Artificial Intelligence & Deep Learning
+🤖 Passionate about Artificial Intelligence, Machine Learning and Deep Learning
 
-💻 Currently building AI/ML projects using Python & PyTorch
+🐍 Building scalable backend applications using **FastAPI**, **Django** and **Flask**
 
-📈 Learning Neural Networks, Computer Vision and NLP
+📊 Love solving real-world problems with Data Science and AI
 
-☁️ Exploring Cloud Computing and AI Deployment
+🌱 Currently learning
 
-🧩 Solving DSA problems to strengthen problem-solving skills
+- Deep Learning
+- Computer Vision
+- NLP
+- MLOps
+- Cloud Deployment
 
-🎯 Goal: Build impactful AI products that solve real-world problems
+🎯 Goal
+
+Become an AI Engineer capable of building production-ready AI applications.
 
 ---
 
@@ -34,144 +38,115 @@ Hi 👋, I'm Sameer Jain
 
 ### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c" />
-</p>
+- Python
+- C++
+- SQL
+- JavaScript
 
 ### AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-</p>
+- NumPy
+- Pandas
+- Scikit-learn
+- PyTorch
+- TensorFlow
+- OpenCV
+- Matplotlib
 
-### Web Development
+### Python Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,fastapi" />
-</p>
+- FastAPI
+- Django
+- Flask
+- REST APIs
+- SQLAlchemy
+- Pydantic
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
+- SQLite
+- MySQL
+- MongoDB
 
-### Cloud & Tools
+### Cloud & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,linux,jupyter" />
-</p>
+- Git
+- GitHub
+- Docker
+- Linux
+- AWS (Learning)
 
----
+### Tools
 
-# 📚 Currently Learning
-
-- 🤖 Deep Learning
-- 🧠 Artificial Neural Networks
-- 🔥 PyTorch
-- 👁 Computer Vision
-- 💬 Natural Language Processing
-- ☁️ Cloud Deployment
-- 🚀 FastAPI
+- VS Code
+- Jupyter Notebook
+- Google Colab
+- Postman
 
 ---
 
-# 📊 GitHub Analytics
+# 💻 Current Focus
 
-<p align="center">
+✅ Machine Learning Projects
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sameerjain084&show_icons=true&theme=tokyonight&hide_border=true"/>
+✅ Deep Learning
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerjain084&layout=compact&theme=tokyonight&hide_border=true"/>
+✅ Python Backend APIs
 
-</p>
+✅ AI-powered Web Applications
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sameerjain084&theme=tokyonight&hide_border=true"/>
-
-</p>
+✅ Model Deployment
 
 ---
 
-# 📈 Contribution Graph
+# 📂 Featured Projects
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameerjain084&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sameerjain084&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 💼 Featured Projects
-
-🚀 AI/ML Learning Repository
+🤖 Machine Learning Projects
 
 🧠 Deep Learning with PyTorch
 
-📊 Machine Learning Algorithms
+📊 Data Analysis & Visualization
 
-📈 Data Analysis & Visualization
+⚡ FastAPI Backend Projects
 
-🤖 Neural Networks from Scratch
+🌐 Django Web Applications
 
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/sameerjain084">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sameer-jain-7836b7216/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:jainsameer179@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://leetcode.com/u/sameerjain_084/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
+🔬 End-to-End AI Projects
 
 ---
 
-<p align="center">
+# 📈 Currently Learning
 
-<img src="https://komarev.com/ghpvc/?username=sameerjain084&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
+- Transformers
+- LangChain
+- LLM Applications
+- MLOps
+- Docker
+- Kubernetes
+- AWS
 
 ---
 
-<h3 align="center">
+# 🎯 2026 Goals
 
-⭐ Thanks for visiting my profile! ⭐
+- ⭐ 500+ LeetCode Problems
+- 🚀 Build 20+ AI Projects
+- 🌐 Deploy AI Applications
+- 🏆 Contribute to Open Source
+- ☁️ Learn AWS & MLOps
+- 💼 Land an AI/ML Internship
 
-Let's build something amazing with AI 🚀
+---
 
-</h3>
+## 📫 Connect with Me
+
+📧 Email: your-email@example.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/sameer-jain-7836b7216/
+
+💻 GitHub:
+https://github.com/sameerjain084
+
+🧩 LeetCode:
+https://leetcode.com/u/sameerjain_084/
