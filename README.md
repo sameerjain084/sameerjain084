@@ -196,32 +196,6 @@ NumPy • Pandas • Scikit-Learn • OpenCV • Matplotlib • Jupyter Notebook
 - 📄 RAG Applications
 - ☁️ Cloud Deployment
 
----
-
-# 🚀 Currently Building
-
-- ✅ AI Full Stack Projects
-- ✅ Machine Learning Portfolio
-- ✅ FastAPI REST APIs
-- ✅ React Dashboards
-- ✅ AI Powered Applications
-- ✅ RAG-based Chatbots
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Build 25+ AI Full Stack Projects
-- 🤖 Master Machine Learning Fundamentals
-- 🐍 Master FastAPI
-- ⚛ Learn React Ecosystem
-- 🧠 Learn LLM Applications
-- 📄 Build RAG Systems
-- 🐳 Learn Docker
-- ☁️ Deploy Projects on AWS
-- 💼 Secure an AI/ML Internship
-
----
 
 # 💻 Coding Profiles
 
