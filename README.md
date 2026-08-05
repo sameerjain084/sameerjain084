@@ -207,19 +207,6 @@ NumPy • Pandas • Scikit-Learn • OpenCV • Matplotlib • Jupyter Notebook
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sameerjain084&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sameerjain084&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerjain084&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📫 Connect With Me
 
