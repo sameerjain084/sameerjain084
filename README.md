@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sameer Jain</h1>
 
 <h3 align="center">
-🚀 AI Engineer | Machine Learning Enthusiast | Python Backend Developer
+🚀 AI Full Stack Engineer (Python) | AI/ML Enthusiast | FastAPI Developer
 </h3>
 
 <p align="center">
-Building Intelligent AI Applications with Python ☁️🤖
+Building Intelligent AI Applications with Python, FastAPI & React 🤖☁️
 </p>
 
 ---
@@ -35,40 +35,51 @@ Building Intelligent AI Applications with Python ☁️🤖
 # 👨‍💻 About Me
 
 ```python
-class SameerJain():
+class SameerJain:
 
     def __init__(self):
 
         self.education = "B.Tech CSE (Cloud Computing & Automation)"
-
         self.university = "VIT Bhopal University"
 
-        self.role = "AI Engineer"
-
-        self.current_focus = [
-            "Machine Learning",
-            "Deep Learning",
-            "Python Backend",
-            "Computer Vision",
-            "NLP"
-        ]
+        self.role = "Aspiring AI Full Stack Engineer"
 
         self.backend = [
             "FastAPI",
             "Django",
-            "Flask",
-            "REST APIs",
-            "SQLAlchemy"
+            "Flask"
+        ]
+
+        self.frontend = [
+            "React",
+            "Tailwind CSS",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+
+        self.ai_stack = [
+            "Machine Learning",
+            "Deep Learning",
+            "LLMs",
+            "LangChain",
+            "RAG"
+        ]
+
+        self.database = [
+            "PostgreSQL",
+            "MongoDB",
+            "SQLite"
         ]
 
         self.languages = [
             "Python",
             "C++",
-            "SQL",
-            "JavaScript"
+            "JavaScript",
+            "SQL"
         ]
 
-        self.goal = "Build Production Ready AI Systems"
+        self.goal = "Build Production-Ready AI Applications"
 
     def motto(self):
         return "Learn • Build • Deploy • Repeat 🚀"
@@ -76,15 +87,55 @@ class SameerJain():
 
 ---
 
-# ⚙️ Tech Arsenal
+# 🚀 What I'm Learning
 
-## 👨‍💻 Programming
+- 🤖 Artificial Intelligence
+- 📊 Machine Learning
+- 🧠 Deep Learning
+- ⚡ FastAPI
+- 🌐 React
+- 🎨 Tailwind CSS
+- 🗄 PostgreSQL
+- 🔐 Authentication (JWT)
+- 🤖 Large Language Models (LLMs)
+- 🔗 LangChain
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🐳 Docker
+- ☁️ AWS
+
+---
+
+# ⚙️ Tech Stack
+
+## 👨‍💻 Programming Languages
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,mysql"/>
 
 </p>
+
+---
+
+## 🌐 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
+
+</p>
+
+---
+
+## 🐍 Python Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask"/>
+
+</p>
+
+FastAPI • Django • Flask • REST APIs • SQLAlchemy • Pydantic
 
 ---
 
@@ -96,27 +147,28 @@ class SameerJain():
 
 </p>
 
-NumPy • Pandas • Scikit-Learn • Matplotlib • OpenCV • Jupyter Notebook
+NumPy • Pandas • Scikit-Learn • OpenCV • Matplotlib • Jupyter Notebook
 
 ---
 
-## 🌐 Python Backend
+## 🧠 Generative AI
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask"/>
-
-</p>
-
-REST APIs • SQLAlchemy • Pydantic
+- OpenAI API
+- Gemini API
+- LangChain
+- Hugging Face
+- Ollama
+- RAG
+- Vector Databases
+- Prompt Engineering
 
 ---
 
-## 💾 Database
+## 💾 Databases
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite"/>
 
 </p>
 
@@ -126,7 +178,7 @@ REST APIs • SQLAlchemy • Pydantic
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode"/>
 
 </p>
 
@@ -134,83 +186,94 @@ REST APIs • SQLAlchemy • Pydantic
 
 # 🧠 Current Focus
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 🐍 FastAPI Backend Development
-- 📊 Data Science
+- 🤖 AI Full Stack Development
+- 🐍 Python Backend Development
+- 🚀 FastAPI
+- ⚛ React
+- 🧠 Machine Learning
+- 💬 Generative AI
+- 📄 RAG Applications
 - ☁️ Cloud Deployment
-- 🚀 End-to-End AI Projects
 
 ---
 
 # 🚀 Currently Building
 
-✔️ Machine Learning Repository
-
-✔️ Deep Learning Projects
-
-✔️ FastAPI APIs
-
-✔️ AI Powered Applications
-
-✔️ Data Science Portfolio
+- ✅ AI Full Stack Projects
+- ✅ Machine Learning Portfolio
+- ✅ FastAPI REST APIs
+- ✅ React Dashboards
+- ✅ AI Powered Applications
+- ✅ RAG-based Chatbots
 
 ---
 
 # 🎯 2026 Goals
 
-🏆 Build 25+ AI Projects
-
-🧠 Master Deep Learning
-
-🐍 Master FastAPI
-
-☁️ Learn AWS
-
-🐳 Docker + Deployment
-
-📈 Open Source Contributions
-
-💼 AI/ML Internship
+- 🚀 Build 25+ AI Full Stack Projects
+- 🤖 Master Machine Learning Fundamentals
+- 🐍 Master FastAPI
+- ⚛ Learn React Ecosystem
+- 🧠 Learn LLM Applications
+- 📄 Build RAG Systems
+- 🐳 Learn Docker
+- ☁️ Deploy Projects on AWS
+- 💼 Secure an AI/ML Internship
 
 ---
-
-
-
-
 
 # 💻 Coding Profiles
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/sameerjain_084?theme=dark&font=Baloo&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/sameerjain_084?theme=dark&font=Baloo&ext=contest"/>
 
 </p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sameerjain084&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sameerjain084&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerjain084&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
 
 # 📫 Connect With Me
 
 📧 **Email**
 
-jainsameer179@gmail.com
+**jainsameer179@gmail.com**
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/sameer-jain-7836b7216/
+**https://www.linkedin.com/in/sameer-jain-7836b7216/**
 
 🐙 **GitHub**
 
-https://github.com/sameerjain084
+**https://github.com/sameerjain084**
 
 🟠 **LeetCode**
 
-https://leetcode.com/u/sameerjain_084/
+**https://leetcode.com/u/sameerjain_084/**
 
 ---
 
+<h3 align="center">
+
+"Building Intelligent AI Applications with Python, FastAPI & React."
+
+</h3>
+
 <p align="center">
 
-### "Turning Data into Intelligent Solutions using AI."
-
-⭐ If you like my work, consider giving my repositories a star.
+⭐ Thanks for visiting my profile!
 
 </p>
