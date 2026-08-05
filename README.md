@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sameer Jain</h1>
 
 <h3 align="center">
-🚀 AI Full Stack Engineer (Python) | AI/ML Enthusiast | FastAPI Developer
+🚀 AI Full Stack Engineer (Python) | AI/ML Enthusiast | 
 </h3>
 
 <p align="center">
