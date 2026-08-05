@@ -76,7 +76,8 @@ class SameerJain:
             "Python",
             "C++",
             "JavaScript",
-            "SQL"
+            "SQL",
+            "java"
         ]
 
         self.goal = "Build Production-Ready AI Applications"
