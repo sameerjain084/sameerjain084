@@ -179,7 +179,7 @@ NumPy • Pandas • Scikit-Learn • OpenCV • Matplotlib • Jupyter Notebook
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode"/>
 
 </p>
 
@@ -200,9 +200,9 @@ NumPy • Pandas • Scikit-Learn • OpenCV • Matplotlib • Jupyter Notebook
 # 💻 Coding Profiles
 
 <p align="center">
-
-<img src="https://leetcard.jacoblin.cool/sameerjain_084?theme=dark&font=Baloo&ext=contest"/>
-
+  <a href="https://leetcode.com/u/sameerjain_084/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/sameerjain_084?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats"/>
+  </a>
 </p>
 
 ---
