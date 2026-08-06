@@ -83,7 +83,7 @@ class SameerJain:
         self.goal = "Build Production-Ready AI Applications"
 
     def motto(self):
-        return "Learn • Build • Deploy • Repeat 🚀"
+        return "Learn • Build • Deploy • Repeat "
 ```
 
 ---
