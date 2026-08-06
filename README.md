@@ -144,7 +144,7 @@ FastAPI • Django • Flask • REST APIs • SQLAlchemy • Pydantic
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
 
 </p>
 
